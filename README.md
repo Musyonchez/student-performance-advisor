@@ -173,7 +173,7 @@ Any prior module failures? (y/n): n
 ## Repository Structure
 
 ```
-kbs-assignment/
+student-performance-advisor/
 ├── README.md
 ├── main.py
 ├── knowledge_base.py
